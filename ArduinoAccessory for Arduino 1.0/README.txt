@@ -1,0 +1,1 @@
+Updated ArduinoAccessory library that works in Arduino 1.0.
